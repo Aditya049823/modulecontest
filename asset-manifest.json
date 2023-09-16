@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/modulecontest/static/css/main.afb0815e.css",
+    "main.js": "/modulecontest/static/js/main.ae29a930.js",
+    "index.html": "/modulecontest/index.html",
+    "main.afb0815e.css.map": "/modulecontest/static/css/main.afb0815e.css.map",
+    "main.ae29a930.js.map": "/modulecontest/static/js/main.ae29a930.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afb0815e.css",
+    "static/js/main.ae29a930.js"
+  ]
+}
